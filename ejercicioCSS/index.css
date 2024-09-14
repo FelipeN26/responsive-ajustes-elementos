@@ -1,0 +1,12 @@
+.boton{
+    padding: 10px 20px;  /*espacio interno vertical y horizontal*/
+    background-color: #255858;
+    color:rgb(199, 130, 46);/*color de fuente*/
+    cursor:pointer; /*cursor*/
+    transition:background-color 0.9s ease; /*trancision del cursor en cambiar*/
+
+}
+
+.boton:hover{
+    background-color: aquamarine;
+}
